@@ -1,0 +1,17 @@
+### Ignore compiled, extensionless binaries
+# Ignore everything
+*
+
+# Unignore files with extensions
+!*.*
+
+# Unignore directories
+!*/
+
+# Unignore makefiles
+!makefile
+
+### Regular Ignores
+*/build/*
+
+*.o
