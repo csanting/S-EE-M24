@@ -14,7 +14,7 @@
 Simply run `make` within the respective folder which will create an executable.
 On most systems, these can be executed as `./MatrixMult` or `./CounterTest`, respectively.
 
-### Section 2
+### Section 3
 After cloning the repo, run:
 
 ```
